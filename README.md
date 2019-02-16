@@ -8,6 +8,7 @@ En este documento quiero vincular algunos cursos y materiales de estudio que con
 ## Prerrequisitos
 
 **Bases matemáticas**
+
 Muchas personas creen que no se necesitan bases matemáticas para hacer Inteligencia Artificial, yo creo que si se necesita.
 1. Álgebra lineal:
   * https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0
@@ -22,6 +23,7 @@ Muchas personas creen que no se necesitan bases matemáticas para hacer Intelige
   * https://www.khanacademy.org/math/statistics-probability
   
   **Bases de programación**
+  
   Sugiero aprender Numpy y TensorFlow o PyTorch mientas que se aprende todo lo demás, en ese sentido no son un prerrequisito sino correquisito.
 1. Algoritmos y tipos de datos:
   * https://www.programiz.com/dsa#
