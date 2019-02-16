@@ -24,7 +24,6 @@ Muchas personas creen que no se necesitan bases matemáticas para hacer Intelige
   
   **Bases de programación**
   
-  Sugiero aprender Numpy y TensorFlow o PyTorch mientas que se aprende todo lo demás, en ese sentido no son un prerrequisito sino correquisito.
 1. Algoritmos y tipos de datos:
   * https://www.programiz.com/dsa#
   * https://www.khanacademy.org/computing/computer-science/algorithms
