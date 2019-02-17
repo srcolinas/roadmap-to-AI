@@ -8,17 +8,9 @@ In this document I link some of the material that I consider relevant to become 
 **Conventions**
 
 The following tags are used to mark content at different levels:
-* *Type*:
-  * ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg) --> marks conent that really helps you understand concepts an ideas.
-  * ![Practical](https://img.shields.io/badge/type-practice-green.svg) --> for content focused on the application, without regard to the theory behind it.
-* *Level*, the mastery of the subjects you will have after fully studied the content
-  * ![Low-level](https://img.shields.io/badge/level-low-orange.svg)
-  * ![mid-level](https://img.shields.io/badge/level-mid-green.svg)
-  * ![high-level](https://img.shields.io/badge/level-high-greenlight.svg)
-* *Format*, how the content is presented
-  * ![lecture](https://img.shields.io/badge/format-lecture-blue.svg)
-  * ![book](https://img.shields.io/badge/format-book-blueviolet.svg)
-  * ![paper](https://img.shields.io/badge/format-paper-9cf.svg)
+* *Type*, related to the particular desired for study some conent: ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg) ![Practical](https://img.shields.io/badge/type-practice-green.svg)
+* *Level*, the mastery of the subjects you will have after fully studied the content: ![Low-level](https://img.shields.io/badge/level-low-orange.svg) ![mid-level](https://img.shields.io/badge/level-mid-green.svg) ![high-level](https://img.shields.io/badge/level-high-greenlight.svg)
+* *Format*, how the content is presented: ![lecture](https://img.shields.io/badge/format-lecture-blue.svg) ![book](https://img.shields.io/badge/format-book-blueviolet.svg) ![paper](https://img.shields.io/badge/format-paper-9cf.svg)
 
 ## Prerequisites
 It is good to have this section here for reference, but I suggest you start with the core material and come back to this section if you feel lost in some ideas or tasks, specially if you have studied the prerequisites before.
