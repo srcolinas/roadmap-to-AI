@@ -39,13 +39,13 @@ It is good to have this section here for reference, but I suggest you start with
   
 ## Artificial Intelligence
 Although it is true that AI is much more than Machine Learning and (therefore) Deep Learning, Deep Learning is a great deal of AI this days.
-1. [Artificial Intelligence (Columbia University)](https://www.edx.org/course/artificial-intelligence-ai)
-2. Machine Learning:
+1. [**Artificial Intelligence** (Columbia University)](https://www.edx.org/course/artificial-intelligence-ai)
+2. **Machine Learning**:
  * [Machine Learning (Stanford, Andrew Ng)](https://www.coursera.org/learn/machine-learning)
  * [Machine Learning (Columbia University)](https://www.edx.org/course/machine-learning)
  * [Hands-Machine-Learning-Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 * [Machine Learning Yearning](https://www.mlyearning.org/)(very good resource to structure machine learning projects).
-3. Deep Learning:
+3. **Deep Learning**:
  * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (the lectures can be seen for free on YouTube, in the [official DeepLearning Ai site](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w).
  * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
  * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
@@ -53,7 +53,7 @@ Although it is true that AI is much more than Machine Learning and (therefore) D
  * [Layer Normalization](https://arxiv.org/abs/1607.06450)
  * [Group Normalization](https://arxiv.org/abs/1803.08494)
  * []()
-4. Visual Recognition:
+4. **Visual Recognition**:
  * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
  * [A guide to convolution aritmetric](https://arxiv.org/pdf/1603.07285v1.pdf)
@@ -78,15 +78,15 @@ Although it is true that AI is much more than Machine Learning and (therefore) D
     * []()
  * Video understanding:
     * []()
-5. Natural Language Processing:
+5. **Natural Language Processing**:
  * [Sequence models](https://www.coursera.org/learn/nlp-sequence-models)
  * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
  * []()
-6. Main Low Level tools for Deep Learning:
+6. **Main Low Level tools for Deep Learning**:
  * [TensorFlow](https://www.tensorflow.org/)
  * [PyTorch](https://pytorch.org/)
  * [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
-4. [Robotics](https://www.edx.org/course/robotics-1)
+4. [**Robotics**](https://www.edx.org/course/robotics-1)
 
  
  
