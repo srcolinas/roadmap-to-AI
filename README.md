@@ -5,6 +5,13 @@ In this document I link some of the material that I consider relevant to become 
 2. I have not necessarily fully studied all this material, some of it has been recommended to my by some friends.
 3. A lot of the content may seem a bit redundant, I hope you are wise enough to realize what you can ignore.
 
+**Conventions**
+
+The following conventions are used to qualify the content:
+
+![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)]
+
+
 ## Prerequisites
 It is good to have this section here for reference, but I suggest you start with the core material and come back to this section if you feel lost in some ideas or tasks, specially if you have studied the prerequisites before.
 
