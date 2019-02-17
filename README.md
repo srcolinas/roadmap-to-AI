@@ -58,17 +58,17 @@ Although it is true that AI is much more than Machine Learning and (therefore) D
   * [Machine Learning (Oxford University)](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)![lecture](https://img.shields.io/badge/format-lecture-blue.svg) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
   * [Hands-Machine-Learning-Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
   * [Machine Learning Yearning](https://www.mlyearning.org/)(very good resource to structure machine learning projects). ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
-3. **Deep Learning**:
-  * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (the lectures can be seen for free on YouTube, in the [official DeepLearning Ai site](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w).
-  * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+3. **Deep Learning**:![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)![read](https://img.shields.io/badge/format-read-blueviolet.svg)
+  * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (the lectures can be seen for free on YouTube, in the [official DeepLearning Ai site](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w).![Practical](https://img.shields.io/badge/type-practice-green.svg) ![lecture](https://img.shields.io/badge/format-lecture-blue.svg)
+  * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)![lecture](https://img.shields.io/badge/format-lecture-blue.svg)
   * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
   * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
   * [Layer Normalization](https://arxiv.org/abs/1607.06450)
   * [Group Normalization](https://arxiv.org/abs/1803.08494)
   * []()
-4. **Visual Recognition**:
-  * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
-  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+4. **Visual Recognition**: ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)![read](https://img.shields.io/badge/format-read-blueviolet.svg)
+  * [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) ![Practical](https://img.shields.io/badge/type-practice-green.svg) ![lecture](https://img.shields.io/badge/format-lecture-blue.svg)
+  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) ![Practical](https://img.shields.io/badge/type-practice-green.svg) ![lecture](https://img.shields.io/badge/format-lecture-blue.svg)
   * [A guide to convolution aritmetric](https://arxiv.org/pdf/1603.07285v1.pdf)
   * Image classification:
     * [Gradient Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
@@ -90,15 +90,15 @@ Although it is true that AI is much more than Machine Learning and (therefore) D
     * []()
   * Video understanding:
     * []()
-5. **Natural Language Processing**:
+5. **Natural Language Processing**:![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)![Practical](https://img.shields.io/badge/type-practice-green.svg) ![lecture](https://img.shields.io/badge/format-lecture-blue.svg) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
   * [Sequence models](https://www.coursera.org/learn/nlp-sequence-models)
   * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
   * []()
-6. **Main Low Level tools for Deep Learning**:
-  * [TensorFlow](https://www.tensorflow.org/)
-  * [PyTorch](https://pytorch.org/)
-  * [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
-4. [**Robotics**](https://www.edx.org/course/robotics-1)
+6. **Main Low Level tools for Deep Learning**: ![Practical](https://img.shields.io/badge/type-practice-green.svg)
+  * [TensorFlow](https://www.tensorflow.org/) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
+  * [PyTorch](https://pytorch.org/) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
+  * [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) ![lecture](https://img.shields.io/badge/format-lecture-blue.svg)
+4. [**Robotics**](https://www.edx.org/course/robotics-1) ![lecture](https://img.shields.io/badge/format-lecture-blue.svg)
 
  
  
