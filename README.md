@@ -50,12 +50,14 @@ It is good to have this section here for reference, but we suggest you start wit
   
 ## Artificial Intelligence
 Although it is true that AI is much more than Machine Learning and (therefore) Deep Learning, Deep Learning is a great deal of AI this days.
-1. [**Artificial Intelligence** (Columbia University)](https://www.edx.org/course/artificial-intelligence-ai)
-2. **Machine Learning**:
-  * [Machine Learning (Stanford, Andrew Ng)](https://www.coursera.org/learn/machine-learning)
-  * [Machine Learning (Columbia University)](https://www.edx.org/course/machine-learning)
-  * [Hands-Machine-Learning-Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
-  * [Machine Learning Yearning](https://www.mlyearning.org/)(very good resource to structure machine learning projects).
+1. [**Artificial Intelligence** (Columbia University)](https://www.edx.org/course/artificial-intelligence-ai) ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)![Practical](https://img.shields.io/badge/type-practice-green.svg) ![lecture](https://img.shields.io/badge/format-lecture-blue.svg) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
+2. **Machine Learning**: ![Practical](https://img.shields.io/badge/type-practice-green.svg)
+  * [Machine Learning (Stanford, Andrew Ng)](https://www.coursera.org/learn/machine-learning) ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)![lecture](https://img.shields.io/badge/format-lecture-blue.svg)
+  * [Machine Learning (Columbia University)](https://www.edx.org/course/machine-learning) ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)![lecture](https://img.shields.io/badge/format-lecture-blue.svg) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
+  * [Intro to Machine Learning (Udacity)](https://www.udacity.com/course/intro-to-machine-learning--ud120) ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)![lecture](https://img.shields.io/badge/format-lecture-blue.svg) 
+  * [Machine Learning (Oxford University)](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)![lecture](https://img.shields.io/badge/format-lecture-blue.svg) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
+  * [Hands-Machine-Learning-Scikit-Learn-TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
+  * [Machine Learning Yearning](https://www.mlyearning.org/)(very good resource to structure machine learning projects). ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
 3. **Deep Learning**:
   * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (the lectures can be seen for free on YouTube, in the [official DeepLearning Ai site](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w).
   * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
@@ -69,7 +71,6 @@ Although it is true that AI is much more than Machine Learning and (therefore) D
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   * [A guide to convolution aritmetric](https://arxiv.org/pdf/1603.07285v1.pdf)
   * Image classification:
-
     * [Gradient Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
     * [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
     * [Very Deep Convolutional Neural Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
