@@ -58,12 +58,13 @@ Although it is true that AI is much more than Machine Learning and (therefore) D
  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
  * [A guide to convolution aritmetric](https://arxiv.org/pdf/1603.07285v1.pdf)
  * Image classification:
-  * [Gradient Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
-  * [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-  * [Very Deep Convolutional Neural Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
-  * [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
-  * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
-  * []()
+
+    * [Gradient Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+    * [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+    * [Very Deep Convolutional Neural Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+    * [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
+    * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+    * []()
  * Object detection:
   * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
   * [Fast R-CNN](https://arxiv.org/abs/1504.08083)
