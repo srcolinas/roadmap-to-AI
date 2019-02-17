@@ -66,18 +66,18 @@ Although it is true that AI is much more than Machine Learning and (therefore) D
     * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
     * []()
  * Object detection:
-  * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
-  * [Fast R-CNN](https://arxiv.org/abs/1504.08083)
-  * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
-  * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640), [YOLO v2](https://arxiv.org/abs/1612.08242)
-  * [SSD: Single Shot Multibox Detector](https://arxiv.org/abs/1512.02325)
-  * []()
+    * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
+    * [Fast R-CNN](https://arxiv.org/abs/1504.08083)
+    * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
+    * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640), [YOLO v2](https://arxiv.org/abs/1612.08242)
+    * [SSD: Single Shot Multibox Detector](https://arxiv.org/abs/1512.02325)
+    * []()
  * Image segmentation:
-  * []()
+    * []()
  * Image verification:
-  * []()
+    * []()
  * Video understanding:
-  * []()
+    * []()
 5. Natural Language Processing:
  * [Sequence models](https://www.coursera.org/learn/nlp-sequence-models)
  * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
