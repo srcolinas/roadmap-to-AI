@@ -7,10 +7,10 @@ In this document I link some of the material that I consider relevant to become 
 
 **Conventions**
 
-The following conventions are used to qualify the content:
+The following tags are used to qualify the content:
 
-![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)]
-
+ * ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg): 
+ * ![Practical](https://img.shields.io/badge/type-practice-green.svg): 
 
 ## Prerequisites
 It is good to have this section here for reference, but I suggest you start with the core material and come back to this section if you feel lost in some ideas or tasks, specially if you have studied the prerequisites before.
