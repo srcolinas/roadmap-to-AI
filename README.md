@@ -19,21 +19,23 @@ It is good to have this section here for reference, but we suggest you start wit
 
 **Math**
 ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)
-1. ![lecture](https://img.shields.io/badge/format-lecture-blue.svg) Linear Algebra:
+1. Linear Algebra: ![lecture](https://img.shields.io/badge/format-lecture-blue.svg)
   * https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0 
   * https://www.khanacademy.org/math/linear-algebra
   * https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-2. ![lecture](https://img.shields.io/badge/format-lecture-blue.svg) Differential Calculus:
+2. Differential Calculus: ![lecture](https://img.shields.io/badge/format-lecture-blue.svg)
   * https://www.edx.org/course/calculus-1a-differentiation
   * https://www.khanacademy.org/math/differential-calculus y https://www.khanacademy.org/math/multivariable-calculus
   * https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 3. Statistics and probability:
-  * ![book](https://img.shields.io/badge/format-book-blueviolet.svg) https://www.amazon.com/Introduction-Mathematical-Statistics-Its-Applications/dp/0321693949
-  * ![lecture](https://img.shields.io/badge/format-lecture-blue.svg) https://www.khanacademy.org/math/statistics-probability
+  * https://www.amazon.com/Introduction-Mathematical-Statistics-Its-Applications/dp/0321693949 ![book](https://img.shields.io/badge/format-book-blueviolet.svg)
+  * https://www.khanacademy.org/math/statistics-probability ![lecture](https://img.shields.io/badge/format-lecture-blue.svg)
   
   **Programming**
+  
   ![Practical](https://img.shields.io/badge/type-practice-green.svg)![read](https://img.shields.io/badge/format-read-blueviolet.svg)
-1. ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg) Algorithms and data structures:
+  
+1. Algorithms and data structures: ![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)
   * https://www.programiz.com/dsa#
   * https://www.khanacademy.org/computing/computer-science/algorithms
 2. Python:
