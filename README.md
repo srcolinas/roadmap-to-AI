@@ -93,7 +93,17 @@ Although it is true that AI is much more than Machine Learning and (therefore) D
 5. **Natural Language Processing**:![Theory](https://img.shields.io/badge/type-theory-brightgreen.svg)![Practical](https://img.shields.io/badge/type-practice-green.svg) ![lecture](https://img.shields.io/badge/format-lecture-blue.svg) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
   * [Sequence models](https://www.coursera.org/learn/nlp-sequence-models)
   * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
-  * []()
+  * [NLP overview: Modern Deep Learning Techniques Applied to NLP ](https://nlpoverview.com/)
+  * [Fast AI NLP course](https://www.fast.ai/2019/07/08/fastai-nlp/): Inside you will find the lectures, notebooks and additional resources.
+  * [Jay Alammar Blog](http://jalammar.github.io/): Interesting Illustration of different NLP architectures (Transformers, GPT, BERT, etc)
+ 
+  - **Advanced NLP**
+    - [NLP Progress](https://github.com/sebastianruder/NLP-progress) SOTA progress on  different NLP tasks for different languages. 
+    - [Harvard NLP](http://nlp.seas.harvard.edu/)
+    - [Huggingface](https://huggingface.co/transformers/) SOTA pretrained models (Transformers) on different languages.
+    - [All about Transformers understanding](https://github.com/sannykim/transformers)
+    - [NLP Newsletter](https://github.com/dair-ai/nlp_newsletter)
+
 6. **Main Low Level tools for Deep Learning**: ![Practical](https://img.shields.io/badge/type-practice-green.svg)
   * [TensorFlow](https://www.tensorflow.org/) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
   * [PyTorch](https://pytorch.org/) ![read](https://img.shields.io/badge/format-read-blueviolet.svg)
